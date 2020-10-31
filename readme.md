@@ -1,4 +1,4 @@
-     Coin recognition assignment - Digital Imaging and Image Preprocessing
+#Coin recognition assignment - Digital Imaging and Image Preprocessing
 
 Source code
 
