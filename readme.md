@@ -1,7 +1,6 @@
 # Coin recognition assignment - Digital Imaging and Image Preprocessing
 
 Source code
-
    All source code is located in the src dir. The test_estim function can be
    found directly in src. Scripts used to test and run the implementation is
    found in src/exp. The remaining functions of the implementation is located
@@ -9,5 +8,8 @@ Source code
    classify, preprocessing in preprocess, and input/output in io.
 
 Report
-
    The report can be found in the root directory as report.pdf.
+   
+Co-Author
+   Noah Hellman
+   
