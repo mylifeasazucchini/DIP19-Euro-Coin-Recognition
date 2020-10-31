@@ -6,10 +6,7 @@ Source code
    found in src/exp. The remaining functions of the implementation is located
    in subdirs of src. Functions related to the classification is found in
    classify, preprocessing in preprocess, and input/output in io.
-
-Report
-   The report can be found in the root directory as report.pdf.
    
-Co-Author
+Co-Author:
    Noah Hellman
    
